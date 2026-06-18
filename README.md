@@ -1,4 +1,5 @@
 # Gardening Game
+<img width="674" height="765" alt="image" src="https://github.com/user-attachments/assets/88ab1e94-1fb8-4d3e-9aae-d4e36b67999b" />
 
 **Tools Lead (Max):** They will research alternative tools, identify good ones,
 and help every other team member set them up on their own machine in the best
