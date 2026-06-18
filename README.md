@@ -1,4 +1,4 @@
-# Cmpm-121-Final-Project
+# Gardening Game
 
 **Tools Lead (Max):** They will research alternative tools, identify good ones,
 and help every other team member set them up on their own machine in the best
